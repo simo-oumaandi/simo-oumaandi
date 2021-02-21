@@ -14,11 +14,12 @@ Skills: Dart / Fluter / JS / HTML / CSS / Angular / Tailwind Css
 - 📫 How to reach me: In my social media accounts 
 - ⚡ Fun fact: I love everything related to programming 😁 
 
+<br><br>
 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simo-oumaandi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/simo-oumaandi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/simo-oumaandi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/simo-oumaandi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/simo-oumaandi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/simo-oumaandi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/simo-oumaandi)  
 
-
+<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo-oumaandi&show_icons=true&theme=cobalt)
