@@ -6,12 +6,14 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
 Skills: Dart / Fluter / JS / HTML / CSS / Angular / Tailwind Css
 
 
+
 - 🔭 I’m currently working on Freelancer 
 - 🌱 I’m currently learning Angular 🧡 
 - 👯 I’m looking to collaborate on Projects Open Source 💚 
 - 🤔 I’m looking for help with Node.js Free Courses 
 - 📫 How to reach me: In my social media accounts 
 - ⚡ Fun fact: I love everything related to programming 😁 
+
 
 
 
