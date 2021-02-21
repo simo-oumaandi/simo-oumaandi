@@ -3,9 +3,6 @@
 
 Hi Im Simo Im From In Morocco , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Dart and Flutter, I as well learning web languages and frameworks like Html Css JavaScript Angular and Tailwind css 
 
-Skills: Dart / Fluter / JS / HTML / CSS / Angular / Tailwind Css
-
-
 
 - 🔭 I’m currently working on Freelancer 
 - 🌱 I’m currently learning Angular 🧡 
