@@ -18,3 +18,7 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo-oumaandi&show_icons=true&theme=cobalt)
+
+
+## test 
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=simo-oumaandi&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
