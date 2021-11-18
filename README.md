@@ -11,7 +11,7 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
 - 📫 How to reach me: In my social media accounts 
 - ⚡ Fun fact: I love everything related to programming 😁 
 
-<br>
+
 ## Visitor count
 
 <p align="center"> 
