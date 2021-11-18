@@ -13,6 +13,7 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
 
 <br>
 ## Visitor count
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/simo-oumaandi/count.svg" />
@@ -24,7 +25,3 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo-oumaandi&show_icons=true&theme=cobalt)
-
-
-## test 
-
