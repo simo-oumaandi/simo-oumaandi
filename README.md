@@ -1,15 +1,35 @@
-### Hi there 👋, Simo Oumaandi
+### Hi there ??, Simo Oumaandi
 #### Programing and devlopment
 
-Hi Im Simo Im From In Morocco , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Dart and Flutter, I as well learning web languages and frameworks like Html Css JavaScript Angular and Tailwind css 
+Hi Im Simo Im From In Morocco , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Javascript and Node.js, I as well learning web languages and frameworks like Html Css JavaScript Typescript Angular and Tailwind css 
 
 
-- 🔭 I’m currently working on Freelancer 
-- 🌱 I’m currently learning Angular 🧡 
-- 👯 I’m looking to collaborate on Projects Open Source 💚 
-- 🤔 I’m looking for help with Node.js Free Courses 
-- 📫 How to reach me: In my social media accounts 
-- ⚡ Fun fact: I love everything related to programming 😁 
+- ?? I’m currently working on Freelancer 
+- ?? I’m currently learning Angular ?? 
+- ?? I’m looking to collaborate on Projects Open Source ?? 
+- ?? I’m looking for help with Angular Free books 
+- ?? How to reach me: In my social media accounts 
+- ? Fun fact: I love everything related to programming ?? 
+
+## skills & experience
+
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+     />
+  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/nodejs/nodejs.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postgresql/postgresql.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwind/tailwind.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
+
+<br>
 
 
 ## Visitor count
