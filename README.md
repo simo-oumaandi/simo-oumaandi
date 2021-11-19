@@ -4,6 +4,9 @@
 #### Im A Full Stack Web Devloper
 
 Hi Im Simo Im From In Morocco , Im a Full Stack Web Devloper , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Javascript and Node.js, I as well learning web languages and frameworks like Html Css JavaScript Typescript Angular and Tailwind css 
+<!-- Social icons section --> <p align="center"> <a href="https://twitter.com/simo_el48"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://ko-fi.com/oumaandi"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> 
+</p>
+
 
 
 - 🔭 &nbsp;I’m currently working on Freelancer
