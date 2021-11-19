@@ -1,15 +1,16 @@
-### Hi there ??, Simo Oumaandi
-#### Full Stack Web Devloper
+## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-Hi Im Simo Im From In Morocco , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Javascript and Node.js, I as well learning web languages and frameworks like Html Css JavaScript Typescript Angular and Tailwind css 
+#### Im A Full Stack Web Devloper
+
+Hi Im Simo Im From In Morocco , Im a Full Stack Web Devloper , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Javascript and Node.js, I as well learning web languages and frameworks like Html Css JavaScript Typescript Angular and Tailwind css 
 
 
-- ?? I’m currently working on Freelancer 
-- ?? I’m currently learning Angular ?? 
-- ?? I’m looking to collaborate on Projects Open Source ?? 
-- ?? I’m looking for help with Angular Free books 
-- ?? How to reach me: In my social media accounts 
-- ? Fun fact: I love everything related to programming ?? 
+- 🔭 &nbsp;I’m currently working on Freelancer
+- 🌱 &nbsp;I’m currently learning Angular 😉 
+- 💬 &nbsp;Ask me about **Angular, Node.js & Express.js**
+- 📫 How to reach me: **[@simo_el48](https://twitter.com/simo_el48) ** on Twitter
+
 
 ## skills & experience
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" alt="git" width="40" height="40"/> </a>
@@ -39,44 +40,6 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- 
- 
- 
- 
-
-<br><br><br><br><br><br>
-## test
-<div style="display:block">
- <img align="left" alt="Vs Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-     />
-  <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
- <img align="left" alt="Angular" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/nodejs/nodejs.png" />
- <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
- <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/postgresql/postgresql.png" />
- <img align="left" alt="graphql" width="26px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
- <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
- <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png" />
- <img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
- <img align="left" alt="Tailwind Css" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tailwind/tailwind.png" />
-  <img align="left" alt="Jestjs" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-  <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- <img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /><br>
-</div>
-<div style="display:block">
- <img align="right" alt="Aws" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/aws/aws.png" />
- <a href="https://git-scm.com/" target="_blank"> <img align="right" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" /></a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
- </div>
-  
-
-<br><br><br><br>
-
 
 ## Visitor count
 
@@ -84,7 +47,6 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/simo-oumaandi/count.svg" />
 </p>
-<br><br><br><br>
 
 ## GitHub Ramblings
 
@@ -94,5 +56,3 @@ Hi Im Simo Im From In Morocco , and I do content on Programing and Development. 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simo-oumaandi&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-
-
