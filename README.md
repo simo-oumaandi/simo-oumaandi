@@ -12,7 +12,7 @@ Hi Im Simo Im From In Morocco , Im a Full Stack Web Devloper , and I do content 
 - 🔭 &nbsp;I’m currently working on Freelancer
 - 🌱 &nbsp;I’m currently learning Angular 😉 
 - 💬 &nbsp;Ask me about **Angular, Node.js & Express.js**
-- 📫 How to reach me: **[@simo_el48](https://twitter.com/simo_el48) ** on Twitter
+- 📫 How to reach me: ** [@simo_el48](https://twitter.com/simo_el48) ** on Twitter
 
 
 ## skills & experience
