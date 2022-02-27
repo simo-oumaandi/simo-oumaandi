@@ -5,6 +5,7 @@
 
 Hi Im Simo Im From In Morocco , Im a Full Stack Web Devloper , and I do content on Programing and Development. I really enjoy learning languages and frameworks like Javascript and Node.js, I as well learning web languages and frameworks like Html Css JavaScript Typescript Angular and Tailwind css 
 <!-- Social icons section --> <p align="center"> &#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://ko-fi.com/oumaandi"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> 
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouad_boufas" height="30" width="40" />
 </p>
 
 
