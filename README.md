@@ -14,7 +14,6 @@ Hi Im Simo Im From In Morocco , Im a Full Stack Web Devloper , and I do content 
 - 💬 &nbsp;Ask me about **Angular, Node.js & Express.js**
 - 📫 How to reach me: ** [capsuleprog](https://twitter.com/capsuleprog) ** on Twitter
 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouad_boufas" height="30" width="40" />
 
 
 ## skills & experience
